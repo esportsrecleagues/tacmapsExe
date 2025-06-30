@@ -19,6 +19,8 @@ body { padding: 0; margin: 0 }
   background: #eae0dd;
   padding: 32px;
   font-family: 'Segoe UI', Arial, sans-serif;
+  text-align: center;
+  align-items: center;
 }
 
 h2 {
@@ -28,6 +30,8 @@ h2 {
 
 .maps-table {
     margin-top: 4px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .map-cell {
